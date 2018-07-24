@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	margin-bottom: 80px;
+	margin-bottom: 90px;
 	background-image: url("../images/paper2.jpg");
 }
 
@@ -14,7 +14,7 @@ body {
 	bottom: 0;
 	width: 100%;
 	height: 80px;
-	background-color: #f5f5f5;
+	background-color: #36c14b85;
 }
 
 .navbar {
@@ -27,7 +27,7 @@ body {
 	margin-top: 20px;
 	width: 100%;
 	height: 500px;
-	opacity: 0.7;
+	opacity: 0.8;
 	font-family: "Cormorant SC";
 	padding: 0;
 	box-shadow: 10px 5px 20px 2px lightslategrey;
@@ -43,12 +43,12 @@ body {
 .jumbotron h1 {
 	font-weight: 800;
 	font-size: 80px;
-	color: black;
+	color: rgba(0, 0, 0, 0.427);
 }
 
 .jumbotron p {
 	font-size: 30px;
-	color: black;
+	color: rgba(0, 0, 0, 0.427);
 }
 
 .panel {
@@ -57,7 +57,7 @@ body {
 }
 
 .panel-heading {
-	background-color: #2196f3;
+	background-color: #119b87;
 	color: white;
 	padding-bottom: 10px;
 }
@@ -93,7 +93,7 @@ h3 {
 }
 
 .navbar-inverse .navbar-nav .scrape-new:active {
-	background: #e51c23;
+	background: #8e373a;
 }
 
 .scrape-new {
@@ -111,7 +111,7 @@ textarea {
 
 .btn {
 	float: right;
-	/*margin: 5px;*/
+	
 }
 
 .note .list-group-item {
